@@ -2,3 +2,4 @@ Important Branch Commands:
 git branch <branch_name>: Creates a new branch.
 git branch -a: Lists all branches.
 git branch -d <branch_name>: Deletes a branch.
+here i am updating the file \
